@@ -1,2 +1,1 @@
-# Sample
-To check azure sample
+# R programming 
